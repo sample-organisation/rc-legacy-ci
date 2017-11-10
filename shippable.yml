@@ -1,0 +1,4 @@
+language: none
+
+script:
+  - echo "hello"
